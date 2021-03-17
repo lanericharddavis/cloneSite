@@ -1,0 +1,18 @@
+
+.alaska-image{
+  background-image: url(./ak-mtn.jpg);
+  background-size: cover;
+}
+
+header{
+  height: 600px;
+}
+
+.ak-map{
+  background-image: url(https://m.media-amazon.com/images/I/81LrGPsVi+L._AC_SL1200_.jpg);
+  background-size: cover;
+}
+
+map{
+  height: 600px;
+}
