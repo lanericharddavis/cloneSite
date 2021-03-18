@@ -1,3 +1,11 @@
+.text-shadow{
+  text-shadow:0 0 1.5rem 1rem gray;
+}
+
+divider{
+  height:10px;
+  background-color:whitesmoke;
+}
 
 .alaska-image{
   background-image: url(./ak-mtn.jpg);
@@ -15,4 +23,8 @@ header{
 
 map{
   height: 600px;
+}
+
+.white:hover{
+  box-shadow: 0 0 1.5em 1em white;
 }
